@@ -1,5 +1,5 @@
 print("your name")
-print("meow")
+print("catz")
 print("Or")
 print("Eli Kopter")
 print("Depends")
